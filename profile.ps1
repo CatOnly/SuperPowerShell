@@ -16,4 +16,6 @@ function Touch-File() {
 Set-Alias -Name touch -Value Touch-File
 Set-Alias -Name open  -Value start
 Set-Alias -Name which -Value Get-Command
-Set-Alias -Name ~ 	  -Value C:\Users\Administrator
+Set-Alias -Name ~     -Value C:\Users\Administrator
+Set-Alias -Name vscode  -Value "C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+Set-Alias -Name MingW64 -Value "C:\Program Files\Git\git-bash.exe"
