@@ -11,9 +11,9 @@ function Touch-File() {
     }
 }
 
-### Create an alias for touch
+### Create an alias
 
 Set-Alias -Name touch -Value Touch-File
-Set-Alias -Name open 	-Value start
+Set-Alias -Name open  -Value start
 Set-Alias -Name which -Value Get-Command
-Set-Alias -Name ~ 		-Value C:\Users\Administrator
+Set-Alias -Name ~ 	  -Value C:\Users\Administrator
